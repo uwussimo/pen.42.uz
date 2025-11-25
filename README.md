@@ -19,27 +19,6 @@
 - Save as HTML file
 - Edit in CodePen
 
-Follow [@webmakerApp](https://twitter.com/intent/follow?screen_name=webmakerApp) for updates or tweet out feature requests and suggestions.
-
-## Support 42Pen
-
-Hi! I am Kushagra Gour. 42Pen is a free and open-source project. To keep myself motivated for working on such open-source and free [side projects](https://kushagra.dev/lab), I have launched a [Patreon campaign](https://patreon.com/kushagra). Your pledge, no matter how small, will act as an appreciation towards my work and keep me going forward making 42Pen more awesome🔥.
-
-[![Become a patron](/src/assets/patreon.png)](https://patreon.com/kushagra)
-
-Support with $ETH - 0x39989c0E53cfdcF6792e09d7573c65E911e774bA
-
-If not that, you can support by simply sharing about how much you love 💖 [@webmakerapp](https://twitter.com/webmakerApp).
-
-## Sponsors
-
-[![](https://user-images.githubusercontent.com/379918/134402085-15cf29bc-2266-4b2d-9354-1830adc4a240.png)](https://cssbattle.dev)
-
-42Pen stays stable as rock with every release, thanks to the sponsored testing on the awesome
-<a href="http://browserstack.com/"><img alt="Browserstack logo" src="https://user-images.githubusercontent.com/379918/134403020-50167453-223a-4841-8ef6-312219bcb2e6.png" height="60"></a>
-
-Deployed on the superfast [Netlify](https://www.netlify.com/) platform.
-
 ## License
 
 MIT Licensed
